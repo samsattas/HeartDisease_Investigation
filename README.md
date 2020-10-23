@@ -4,4 +4,7 @@
 
 ### Description
 
-The goal of this project is classified persons that have hearth diseases, using machine learning algorithms with decision threes technique.   
+The goal of this project is classified persons that have hearth diseases, using machine learning algorithms with decision threes technique.
+
+Here we can find the data set: https://www.kaggle.com/ronitf/heart-disease-uci
+The documentation is in a word document in the project 
